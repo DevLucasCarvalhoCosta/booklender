@@ -80,25 +80,25 @@ Para melhor compreensão do sistema, foram criados os seguintes diagramas:
 
 Este diagrama mostra as principais classes do sistema e seus relacionamentos, incluindo as classes `Livro`, `Usuario`, `Emprestimo`, entre outras.
 
-![Diagrama de Classes](https://github.com/DevLucasCarvalhoCosta/booklender/blob/main/booklender/src/main/java/com/booklender/booklender/Diagramas/Diagrama%20de%20Classes.png)
+![Diagrama de Classes](https://github.com/DevLucasCarvalhoCosta/booklender/blob/main/booklender/src/main/java/com/booklender/booklender/Diagramas/1.%20Diagrama%20de%20Classes.png)
 
 ### 2. **Diagrama de Entidade-Relacionamento (ER)**
 
 Este diagrama mostra o relacionamento entre as entidades no banco de dados, como as tabelas `livros`, `usuarios`, e `emprestimos`.
 
-![Diagrama de Entidade-Relacionamento (ER)](https://github.com/DevLucasCarvalhoCosta/booklender/blob/main/booklender/src/main/java/com/booklender/booklender/Diagramas/Diagrama%20de%20Entidade-Relacionamento%20(ER).png)
+![Diagrama de Entidade-Relacionamento (ER)](https://github.com/DevLucasCarvalhoCosta/booklender/blob/main/booklender/src/main/java/com/booklender/booklender/Diagramas/2.%20Diagrama%20de%20Entidade-Relacionamento%20(ER).png)
 
 ### 3. **Diagrama de Sequência - Fluxo de Empréstimo**
 
 Este diagrama descreve o fluxo de operações quando um usuário realiza o empréstimo de um livro, incluindo as interações entre o usuário, o sistema e o banco de dados.
 
-![Diagrama de Sequência - Fluxo de Empréstimo](https://github.com/DevLucasCarvalhoCosta/booklender/blob/main/booklender/src/main/java/com/booklender/booklender/Diagramas/Diagrama%20de%20Sequ%C3%AAncia%20-%20Fluxo%20de%20Empr%C3%A9stimo.png)
+![Diagrama de Sequência - Fluxo de Empréstimo](https://github.com/DevLucasCarvalhoCosta/booklender/blob/main/booklender/src/main/java/com/booklender/booklender/Diagramas/3.%20Diagrama%20de%20Sequência%20-%20Fluxo%20de%20Empréstimo.png)
 
 ### 4. **Diagrama de Implantação**
 
 Este diagrama mostra como o sistema será implantado em diferentes camadas, com destaque para o servidor de aplicação e o banco de dados.
 
-![Diagrama de Implantação](https://github.com/DevLucasCarvalhoCosta/booklender/blob/main/booklender/src/main/java/com/booklender/booklender/Diagramas/Diagrama%20de%20Implanta%C3%A7%C3%A3o.png)
+![Diagrama de Implantação](https://github.com/DevLucasCarvalhoCosta/booklender/blob/main/booklender/src/main/java/com/booklender/booklender/Diagramas/4.%20Diagrama%20de%20Implantação.png)
 
 ---
 
