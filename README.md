@@ -106,6 +106,6 @@ Este diagrama mostra como o sistema será implantado em diferentes camadas, com 
 
 O sistema foi testado utilizando **JUnit 5** e **Mockito**. Abaixo está a captura de tela dos testes executados:
 
-![Testes Executados](https://github.com/DevLucasCarvalhoCosta/booklender/blob/main/booklender/src/main/java/com/booklender/booklender/Diagramas/testes.png)
+![Testes Executados](https://github.com/DevLucasCarvalhoCosta/booklender/blob/main/booklender/src/main/java/com/booklender/booklender/Diagramas/testes.png.png)
 
 ---
